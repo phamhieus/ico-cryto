@@ -6065,7 +6065,7 @@ ul.progress-info { display: flex; justify-content: space-between; }
 
 .tc-light .chart-sublabel { color: #8284a5; }
 
-.chart-p { margin-left: auto; font-size: 1.125rem; font-weight: 500; color: #10122d; }
+.chart-p { margin-left: auto; font-size: 1.125rem; font-weight: 500; }
 
 .chart-c { position: relative; top: 3px; height: 14px; width: 14px; border-radius: 3px; margin-right: 12px; flex-shrink: 0; display: block; }
 
