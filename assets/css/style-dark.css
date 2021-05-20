@@ -6079,8 +6079,8 @@ ul.progress-info { display: flex; justify-content: space-between; }
   .chart-c { top: 6px; }
   .chart-canvas { min-height: 360px; }
   .chart-canvas-s1 { min-height: 215px; }
-  banner-gfx banner-gfx-re-s3 img{
-    max-width: 40em;
+  .banner-gfx img{
+    max-width: 38em;
   }
 }
 
