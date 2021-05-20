@@ -3337,7 +3337,8 @@ ul.progress-info { display: flex; justify-content: space-between; }
 
 @media (min-width: 576px) { .social-icon + span { display: inline-block; }
   .social-bar li a, .social-bar li span { padding: 20px; }
-  .social-bar-title { width: auto; border-bottom: none; } }
+  .social-bar-title { width: auto; border-bottom: none; }
+  .header-banner { margin-top: 1em;}}
 
 @media (min-width: 992px) { .social-bar li a { font-size: 20px; }
   .social-bar li a, .social-bar li span { padding: 40px 20px; } }
